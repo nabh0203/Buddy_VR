@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - item
+  - Teleport
+  - Window
+  - SelectButton2
+  - SelectButton3
+  - Cat
+  - Apple
+  - SelectButton
+  - Bread
+  - Block
+  - SelectButton4
+  - Pickaxe
+  - TrashT
+  - TeleportTrigger
+  - Key
+  - Trash
+  - ChestCollider
+  - RugCollider
+  - CherryCollider
+  - TeleportCollider
+  - Block2
+  - UICollider
+  - UIChangeButton
+  - StickerExit
+  - SpawnFinals
+  - Option_Button
+  - WrongKey
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Teleport
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
