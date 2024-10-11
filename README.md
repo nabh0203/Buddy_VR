@@ -3,7 +3,8 @@
 
 <인트로 사진>
 
-![Frame 264.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9f4f04d2-e3d9-4279-8c92-dec2e691c5e0/239e0fd0-663c-440f-b812-bcd19b507705/Frame_264.png)
+![Group 133](https://github.com/user-attachments/assets/d86012f8-cd1f-4bc7-bfd7-cb6b00a30cdd)
+
 
 ![Frame 285.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9f4f04d2-e3d9-4279-8c92-dec2e691c5e0/7c29ec70-2895-4280-84af-7667085d6997/Frame_285.png)
 
