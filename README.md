@@ -69,7 +69,7 @@ Buddy_VR
 ---
 ### **2. Scene Switcher**
 
-> SceneNaem의 값에 따라 이동할수 있는 씬을 다르게 제작하엿습니다.
+> SceneName의 값에 따라 이동할수 있는 씬을 다르게 제작하엿습니다.
 
 ---
 ### **3. Tag Plus**
